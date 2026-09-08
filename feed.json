@@ -1,12 +1,12 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-09-08T21:00:00+09:00",
-  "footnote": "Card thumbnails and the pokeca-chart.com PSA10 index added 2026-09-08. Live SNKRDUNK per-card check completed 2026-09-08 21:00 JST via a real browser session on the paired device; market_index reconfirmed the same way (unchanged from the prior reading). Earlier on 2026-09-08 the buy-zone tiers for Umbreon ex SAR and Pikachu ex SAR were trimmed (~3-4%) after fresh Japanese-market research (an LDP trading-card regulation task force formed to target oripa/counterfeits/money-laundering, a PSA-backlog arbitrage squeeze, and pre-anniversary profit-taking) pointed to unresolved near-term sell pressure into the Sept 16 release; Pikachu VMAX CSR's tiers were left unchanged since its live floor firmed rather than fell. Gengar VMAX SA (SGG 020/019) was added 2026-09-08 following a requested evaluation: an out-of-print, deck-exclusive SAR whose PSA10 price has pulled back roughly a quarter from its August 2026 peak amid a broader market correction. The recurring hourly device-bound check continues to refresh prices automatically; tier levels are only revised on manual review or a scheduled add-card evaluation.",
+  "updated_at": "2026-09-08T21:25:00+09:00",
+  "footnote": "Card thumbnails and the pokeca-chart.com PSA10 index added 2026-09-08. Live SNKRDUNK per-card check completed 2026-09-08 21:00 JST via a real browser session on the paired device; market_index reconfirmed the same way (unchanged from the prior reading). Earlier on 2026-09-08 the buy-zone tiers for Umbreon ex SAR and Pikachu ex SAR were trimmed (~3-4%) after fresh Japanese-market research (an LDP trading-card regulation task force formed to target oripa/counterfeits/money-laundering, a PSA-backlog arbitrage squeeze, and pre-anniversary profit-taking) pointed to unresolved near-term sell pressure into the Sept 16 release; Pikachu VMAX CSR's tiers were left unchanged since its live floor firmed rather than fell. Gengar VMAX SA (SGG 020/019) was added 2026-09-08 following a requested evaluation: an out-of-print, deck-exclusive SAR whose PSA10 price has pulled back roughly a quarter from its August 2026 peak amid a broader market correction; its card art (sourced from Limitless TCG, since TCGdex does not catalogue this promo deck set) was added at 21:25 JST. The recurring hourly device-bound check continues to refresh prices automatically; tier levels are only revised on manual review or a scheduled add-card evaluation.",
   "market_index": {
     "source": "pokeca-chart.com",
     "source_url": "https://pokeca-chart.com/gr/chart-index/",
     "label": "PSA10 指数チャート",
-    "updated_at": "2026-09-08T21:00:00+09:00",
+    "updated_at": "2026-09-08T21:25:00+09:00",
     "value_jpy": 132026,
     "change_day_jpy": -365,
     "change_day_pct": -0.3,
@@ -112,6 +112,7 @@
       "lot_id": "LOT 04",
       "name": "Gengar VMAX SA",
       "subtitle": "SGG 020/019 · High Class Deck \"Gengar VMAX\" — out of print",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SGG/SGG_20_R_JP_LG.png",
       "price_jpy": 356000,
       "price_source": "SNKRDUNK",
       "checked_at": "2026-09-08T21:00:00+09:00",
