@@ -1,12 +1,12 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-09-08T15:52:00+09:00",
-  "footnote": "Card thumbnails and the pokeca-chart.com PSA10 index added 2026-09-08. Live SNKRDUNK per-card check completed 2026-09-08 12:38 JST via a real browser session on the paired device; market_index captured 2026-09-08 13:50 JST the same way. The recurring every-2-hours device-bound check now refreshes both automatically; the morning altema.jp/tradecard.jp run still resets each day's per-card baseline and also refreshes the index baseline.",
+  "updated_at": "2026-09-08T17:20:00+09:00",
+  "footnote": "Card thumbnails and the pokeca-chart.com PSA10 index added 2026-09-08. Live SNKRDUNK per-card check completed 2026-09-08 17:20 JST via a real browser session on the paired device; market_index reconfirmed the same way (unchanged from the prior reading). On 2026-09-08 the buy-zone tiers for Umbreon ex SAR and Pikachu ex SAR were trimmed (~3-4%) after fresh Japanese-market research (an LDP trading-card regulation task force formed to target oripa/counterfeits/money-laundering, a PSA-backlog arbitrage squeeze, and pre-anniversary profit-taking) pointed to unresolved near-term sell pressure into the Sept 16 release. Pikachu VMAX CSR's tiers were left unchanged since its live floor firmed (+3%) rather than fell versus the same-day earlier check. The recurring hourly device-bound check continues to refresh prices automatically; tier levels are only revised on manual review or a scheduled add-card evaluation.",
   "market_index": {
     "source": "pokeca-chart.com",
     "source_url": "https://pokeca-chart.com/gr/chart-index/",
     "label": "PSA10 指数チャート",
-    "updated_at": "2026-09-08T15:52:00+09:00",
+    "updated_at": "2026-09-08T17:20:00+09:00",
     "value_jpy": 132026,
     "change_day_jpy": -365,
     "change_day_pct": -0.3,
@@ -23,23 +23,29 @@
       "name": "Umbreon ex SAR",
       "subtitle": "SV8a 217/187 · Terastal Fest ex",
       "image_url": "https://assets.tcgdex.net/ja/SV/SV8a/217/high.webp",
-      "price_jpy": 84500,
+      "price_jpy": 85000,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-08T15:52:00+09:00",
+      "checked_at": "2026-09-08T17:20:00+09:00",
       "peak_jpy": 120000,
       "peak_label": "Apr 2026",
-      "tier_definitely_buy_max": 75000,
-      "tier_buy_max": 85000,
-      "tier_watch_max": 110000,
-      "verdict": "Buy",
-      "snkrdunk_note": "live listing ¥84,500, checked 15:52 JST",
+      "tier_definitely_buy_max": 72000,
+      "tier_buy_max": 82000,
+      "tier_watch_max": 105000,
+      "verdict": "Watch",
+      "snkrdunk_note": "live listing ¥85,000, checked 17:20 JST — buy tiers trimmed today (30th-anniversary sell-pressure research); raw price still rising, a mild counter-signal",
       "index_constituent": {
         "listed_as": "ブラッキーex [sv8a 217/187] テラスタルフェスex",
         "weight": 0.88
       },
       "history": [
-        { "date": "2026-09-07", "price_jpy": 91700 },
-        { "date": "2026-09-08", "price_jpy": 84500 }
+        {
+          "date": "2026-09-07",
+          "price_jpy": 91700
+        },
+        {
+          "date": "2026-09-08",
+          "price_jpy": 85000
+        }
       ]
     },
     {
@@ -48,20 +54,26 @@
       "name": "Pikachu VMAX CSR",
       "subtitle": "s8b 223/184 · VMAX Climax — out of print",
       "image_url": "https://assets.tcgdex.net/ja/S/S8b/223/high.webp",
-      "price_jpy": 35400,
+      "price_jpy": 36500,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-08T15:52:00+09:00",
+      "checked_at": "2026-09-08T17:20:00+09:00",
       "peak_jpy": 76000,
       "peak_label": "May 2026",
       "tier_definitely_buy_max": 27000,
       "tier_buy_max": 32000,
       "tier_watch_max": 45000,
       "verdict": "Watch",
-      "snkrdunk_note": "live listing ¥35,400, checked 15:52 JST",
+      "snkrdunk_note": "live listing ¥36,500, checked 17:20 JST — floor firmed +3% vs this morning's ¥35,400; tiers held unchanged",
       "index_constituent": null,
       "history": [
-        { "date": "2026-09-07", "price_jpy": 36900 },
-        { "date": "2026-09-08", "price_jpy": 35400 }
+        {
+          "date": "2026-09-07",
+          "price_jpy": 36900
+        },
+        {
+          "date": "2026-09-08",
+          "price_jpy": 36500
+        }
       ]
     },
     {
@@ -72,21 +84,27 @@
       "image_url": "https://assets.tcgdex.net/ja/SV/SV8/132/high.webp",
       "price_jpy": 103000,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-08T15:52:00+09:00",
+      "checked_at": "2026-09-08T17:20:00+09:00",
       "peak_jpy": 155000,
       "peak_label": "Apr 2026",
-      "tier_definitely_buy_max": 80000,
-      "tier_buy_max": 95000,
-      "tier_watch_max": 120000,
+      "tier_definitely_buy_max": 78000,
+      "tier_buy_max": 92000,
+      "tier_watch_max": 115000,
       "verdict": "Watch",
-      "snkrdunk_note": "live listing ¥103,000, checked 15:52 JST",
+      "snkrdunk_note": "live listing ¥103,000, checked 17:20 JST — buy tiers trimmed slightly on the same sell-pressure research",
       "index_constituent": {
         "listed_as": "ピカチュウex [sv8 132/106] 超電ブレイカー",
         "weight": 1.0
       },
       "history": [
-        { "date": "2026-09-07", "price_jpy": 111000 },
-        { "date": "2026-09-08", "price_jpy": 103000 }
+        {
+          "date": "2026-09-07",
+          "price_jpy": 111000
+        },
+        {
+          "date": "2026-09-08",
+          "price_jpy": 103000
+        }
       ]
     }
   ]
