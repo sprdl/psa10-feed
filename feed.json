@@ -1,12 +1,12 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-09-09T14:17:00+09:00",
+  "updated_at": "2026-09-09T15:21:00+09:00",
   "footnote": "Morning baseline for Umbreon ex SAR, Pikachu VMAX CSR, and Pikachu ex SAR refreshed 2026-09-08 from altema.jp/tradecard.jp (cross-checked); their buy-zone tiers were reset to saved reference levels for the new day. SNKRDUNK per-card reference was unavailable via headless fetch this run - pending the next live browser check on the paired device. The pokeca-chart.com PSA10 index page also returned 403 on headless fetch this run, so market_index below carries over unchanged from the last successful live check rather than refreshing. Gengar VMAX SA (SGG 020/019) was added 2026-09-08 following a requested evaluation - an out-of-print, deck-exclusive SAR whose PSA10 price has pulled back roughly a quarter from its August 2026 peak amid a broader market correction; its card art is sourced from Limitless TCG since TCGdex does not catalogue this promo deck set. The recurring every-2-hours device-bound check refreshes prices automatically when the paired device is available; tier levels are only revised on manual review or a scheduled add-card evaluation. A live SNKRDUNK browser check completed 2026-09-08 22:25 JST via a real browser session on the paired device, replacing the altema.jp/tradecard.jp morning baseline above for Umbreon ex SAR, Pikachu VMAX CSR, and Pikachu ex SAR with confirmed cheapest-listing prices (the morning reset’s tier levels were left unchanged, which moved Umbreon ex SAR into the Buy zone at its lower live price); Gengar VMAX SA was reconfirmed the same way. The pokeca-chart.com PSA10 index was also reconfirmed via the live browser session (unchanged from the last reading). Detective Pikachu (SV-P 098) was added 2026-09-08 22:25 JST following a requested evaluation: a mass-distributed, out-of-print video-game pre-order promo (PSA10 population ~49,275, 86.6% gem rate) whose PSA10 price has fallen roughly a third from its May 2026 peak of ¥80,000 to ¥52,500, a steeper drawdown than the broad index over the same period; no card art could be confirmed (TCGdex and the paired device’s network were both unreachable), so its thumbnail is left blank. Card art for Detective Pikachu (SV-P 098) was located and added 2026-09-08 22:40 JST, sourced from Limitless TCG.",
   "market_index": {
     "source": "pokeca-chart.com",
     "source_url": "https://pokeca-chart.com/gr/chart-index/",
     "label": "PSA10 指数チャート",
-    "updated_at": "2026-09-09T14:17:00+09:00",
+    "updated_at": "2026-09-09T15:21:00+09:00",
     "value_jpy": 131176,
     "change_day_jpy": -850,
     "change_day_pct": -0.6,
@@ -23,16 +23,16 @@
       "name": "Umbreon ex SAR",
       "subtitle": "SV8a 217/187 · Terastal Fest ex",
       "image_url": "https://assets.tcgdex.net/ja/SV/SV8a/217/high.webp",
-      "price_jpy": 82000,
+      "price_jpy": 81000,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-09T14:17:00+09:00",
+      "checked_at": "2026-09-09T15:21:00+09:00",
       "peak_jpy": 120000,
       "peak_label": "Apr 2026",
       "tier_definitely_buy_max": 75000,
       "tier_buy_max": 85000,
       "tier_watch_max": 110000,
       "verdict": "Buy",
-      "snkrdunk_note": "live listing ¥82,000, checked 14:17 JST",
+      "snkrdunk_note": "live listing ¥81,000, checked 15:21 JST",
       "index_constituent": {
         "listed_as": "ブラッキーex [sv8a 217/187] テラスタルフェスex",
         "weight": 0.88
@@ -48,7 +48,7 @@
         },
         {
           "date": "2026-09-09",
-          "price_jpy": 82000
+          "price_jpy": 81000
         }
       ]
     },
@@ -60,14 +60,14 @@
       "image_url": "https://assets.tcgdex.net/ja/S/S8b/223/high.webp",
       "price_jpy": 35000,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-09T14:17:00+09:00",
+      "checked_at": "2026-09-09T15:21:00+09:00",
       "peak_jpy": 76000,
       "peak_label": "May 2026",
       "tier_definitely_buy_max": 27000,
       "tier_buy_max": 32000,
       "tier_watch_max": 45000,
       "verdict": "Watch",
-      "snkrdunk_note": "live listing ¥35,000, checked 14:17 JST",
+      "snkrdunk_note": "live listing ¥35,000, checked 15:21 JST",
       "index_constituent": null,
       "history": [
         {
@@ -92,14 +92,14 @@
       "image_url": "https://assets.tcgdex.net/ja/SV/SV8/132/high.webp",
       "price_jpy": 98888,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-09T14:17:00+09:00",
+      "checked_at": "2026-09-09T15:21:00+09:00",
       "peak_jpy": 155000,
       "peak_label": "Apr 2026",
       "tier_definitely_buy_max": 80000,
       "tier_buy_max": 95000,
       "tier_watch_max": 120000,
       "verdict": "Watch",
-      "snkrdunk_note": "live listing ¥98,888, checked 14:17 JST",
+      "snkrdunk_note": "live listing ¥98,888, checked 15:21 JST",
       "index_constituent": {
         "listed_as": "ピカチュウex [sv8 132/106] 超電ブレイカー",
         "weight": 1.0
@@ -127,14 +127,14 @@
       "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SGG/SGG_20_R_JP_LG.png",
       "price_jpy": 349000,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-09T14:17:00+09:00",
+      "checked_at": "2026-09-09T15:21:00+09:00",
       "peak_jpy": 478000,
       "peak_label": "Aug 2026",
       "tier_definitely_buy_max": 250000,
       "tier_buy_max": 290000,
       "tier_watch_max": 380000,
       "verdict": "Watch",
-      "snkrdunk_note": "live listing ¥349,000, checked 14:17 JST",
+      "snkrdunk_note": "live listing ¥349,000, checked 15:21 JST",
       "index_constituent": {
         "listed_as": "ゲンガーVMAX [SGG 020/019]",
         "weight": 0.39
@@ -156,16 +156,16 @@
       "name": "Detective Pikachu",
       "subtitle": "SV-P 098 · Detective Pikachu Returns pre-order promo — out of print",
       "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/SVP/SVP_98_R_JP_LG.png",
-      "price_jpy": 51000,
+      "price_jpy": 50000,
       "price_source": "SNKRDUNK",
-      "checked_at": "2026-09-09T14:17:00+09:00",
+      "checked_at": "2026-09-09T15:21:00+09:00",
       "peak_jpy": 80000,
       "peak_label": "May 2026",
       "tier_definitely_buy_max": 38000,
       "tier_buy_max": 45000,
       "tier_watch_max": 58000,
       "verdict": "Watch",
-      "snkrdunk_note": "live listing ¥51,000, checked 14:17 JST",
+      "snkrdunk_note": "live listing ¥50,000, checked 15:21 JST",
       "index_constituent": {
         "listed_as": "名探偵ピカチュウ [098/SV-P]",
         "weight": 2.61
@@ -177,7 +177,7 @@
         },
         {
           "date": "2026-09-09",
-          "price_jpy": 51000
+          "price_jpy": 50000
         }
       ]
     }
